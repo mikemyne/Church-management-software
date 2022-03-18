@@ -4,13 +4,18 @@ Church management software with a custom home, events, topics, schedule and abou
 # Features:
 ## Users Module
 
-Home Section - custom home page with introductory message/scripture and name of the church. Also contains recent blogs
-Events Section - contains predetermined church events 
-Topics Section - contains a section for post-sermons and post-teachings similar to a blog
-Schedule Section - allows the users/congregation to book certain church activities by filling a form that requires name, address, scheduled date,contact and remarks
-About us Section - that contains information about the church and means of contacting them
+1. Home Section - custom home page with introductory message/scripture and name of the church. Also contains recent blogs
+
+2. Events Section - contains predetermined church events 
+
+3. Topics Section - contains a section for post-sermons and post-teachings similar to a blog
+ 
+4. Schedule Section - allows the users/congregation to book certain church activities by filling a form that requires name, address, scheduled date,contact and remarks
+
+5. About us Section - that contains information about the church and means of contacting them
 
 ## Admin Module
+
 Sign up/ login section
 Dashboard that contains Total Daily verses, Confirmed appointments, Published posts and Upcoming events.
 Daily Verses Section - you can set to display verses on a certain day, indicating the verse and the chapter
