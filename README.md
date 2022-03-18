@@ -1,6 +1,9 @@
 # Church-management-software
 Church management software with a custom home, events, topics, schedule and about us sections that can be tailored to the needs of any church
 
+# Requirements
+XAMPP
+
 # Features:
 ## Users Module
 
@@ -27,9 +30,9 @@ Sign up/ login section
 
 5. Appointments Requests Section - where the admin can keep track of users/congregation that have scheduled certain appointments eg. Baptism and remarks made by them as well as status of their appointments, be it Confirmed, Pending or Cancelled
 
-6. Topics Scetion - where admin can add sermons/teachings already taught so that they can be displayed in user module
+6. Topics Section - where admin can add sermons/teachings already taught so that they can be displayed in user module
 
-7. Schedule Type List - add pr remove church activities to be scheduled for
+7. Schedule Type List - add and remove church activities to be scheduled for
 
 8. Users List Section - contains names of the admins managing the software
 
